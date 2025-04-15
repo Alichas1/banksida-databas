@@ -22,7 +22,7 @@ export default function Homesida() {
             >
               Skapa användare
             </Link>
-            <p>HEJ</p>
+            <div>HEJ</div>
           </nav>
         </div>
       </header>
